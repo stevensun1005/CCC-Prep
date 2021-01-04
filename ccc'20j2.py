@@ -1,4 +1,4 @@
-def rotete():
+def rotate():
     m = int(input())
     n = int(input())
     counter = 0
@@ -15,4 +15,4 @@ def rotete():
             counter += 1
     print(counter)
 
-rotete()
+rotate()
